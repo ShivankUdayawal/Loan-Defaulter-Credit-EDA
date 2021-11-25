@@ -57,3 +57,36 @@ To develop your understanding of the domain, you are advised to independently re
 
 ### Data Source :
 https://www.kaggle.com/gauravduttakiit/loan-defaulter
+
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/01.jpg)
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/02.jpg)
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/03.jpg)
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/06.jpg)
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/07.jpg)
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/08.jpg)
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/09.jpg)
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/10.jpg)
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/11.jpg)
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/12.jpg)
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/13.jpg)
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/14.jpg)
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/15.jpg)
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/16.jpg)
+
+![](https://github.com/ShivankUdayawal/Loan-Defaulter-Credit-EDA/blob/main/Data%20Visualization/17.jpg)
+
+![]()
