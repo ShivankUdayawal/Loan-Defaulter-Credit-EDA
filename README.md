@@ -42,3 +42,18 @@ This case study aims to identify patterns which indicate if a client has difficu
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
 
 To develop your understanding of the domain, you are advised to independently research a little about risk analytics - understanding the types of variables and their significance should be enough).
+
+
+### Data Understanding :
+'application_data.csv' :
+       It contains all the information of the client at the time of application. 
+       The data is about whether a client has payment difficulties. 
+'previous_application.csv' :
+       It contains information about the client’s previous loan data. 
+       It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.  
+'columns_description.csv' :
+       It is data dictionary which describes the meaning of the variables.
+       
+
+### Data Source :
+https://www.kaggle.com/gauravduttakiit/loan-defaulter
